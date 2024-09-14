@@ -20,10 +20,10 @@ def main():
         "Example Trading Strategy: \nLong stocks with abnormally high expected future volatility, short vice versa, if trading turnover is low relative to market cap.",
         "Example Trading Strategy: \nLong stocks with high price declines over the previous 5 days, short vice versa, if trading more on high leverage companies.",
         "Example Trading Strategy: \nShort stocks with relatively high social media discussion, long vice versa, if trading volume is unexpectedly high.",
-        "Example Trading Strategy: \nLong stocks with large fund spent for employee pension, short vice versa"
-        "Example Trading Strategy: \nLong stocks with high potential for dividend payment, short vice versa, when the company is growing fast"
+        "Example Trading Strategy: \nLong stocks with large fund spent for employee pension, short vice versa",
+        "Example Trading Strategy: \nLong stocks with high potential for dividend payment, short vice versa, when the company is growing fast",
         "Example Trading Strategy: \nLong stocks with high put open interest relative to call open interest, short vice versa.",
-        "Example Trading Strategy: \nLong stocks with high invested capital, short vice versa, when the volume is high"
+        "Example Trading Strategy: \nLong stocks with high invested capital, short vice versa, when the volume is high",
         "Example Trading Strategy: \nLong stocks with high cash flow relative to liabilities, short vice versa, when the company is growing fast."
     ]
 
